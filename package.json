@@ -1,7 +1,8 @@
 {
   "devDependencies": {
     "webpack-cli": "^4.10.0",
-    "webpack-dev-server": "^4.9.2"
+    "webpack-dev-server": "^4.9.2",
+    "webpack-pwa-manifest": "^4.0.0"
   },
   "dependencies": {
     "compression": "^1.7.4",
@@ -15,5 +16,4 @@
     "start:dev": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
-  
 }
