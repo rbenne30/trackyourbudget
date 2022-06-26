@@ -1,0 +1,26 @@
+{
+    "name": "   Track Your Budget",
+    "short_name": "Budget Tracker",
+    "description": "An app that allows you to track withdrawals and deposits with or without a data/internet connection.",
+    "background_color": "#01579b",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+          "src": "/img/icons/icons-192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "/img/icons/icons-512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+    ],
+    "start_url": "./",
+    "display":""
+}
+
+
+  
+
+  
